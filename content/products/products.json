@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Air Jordan Red",
+    "onSale": false,
+    "tags": ["Nike", "Vermelho"],
+    "image": "https://images.pexels.com/photos/2385477/pexels-photo-2385477.jpeg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 7000,
+    "salePrice": null,
+    "ratings": 5.0
+  },
+  {
+    "id": 2,
+    "name": "Yeezy Boost",
+    "onSale": true,
+    "tags": ["Yeezy", "Cinza"],
+    "image": "https://images.pexels.com/photos/1102776/pexels-photo-1102776.jpeg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 8000,
+    "salePrice": 3000,
+    "ratings": 4.0
+  },
+  {
+    "id": 3,
+    "name": "Air Force Custom",
+    "onSale": true,
+    "tags": ["Nike", "Branco"],
+    "image": "https://images.pexels.com/photos/1698359/pexels-photo-1698359.jpeg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 10500,
+    "salePrice": 9000,
+    "ratings": 5.0
+  },
+  {
+    "id": 4,
+    "name": "Nike Sb",
+    "onSale": false,
+    "tags": ["Nike", "Preto"],
+    "image": "https://images.pexels.com/photos/1478442/pexels-photo-1478442.jpeg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 500,
+    "salePrice": null,
+    "ratings": 4
+  },
+  {
+    "id": 5,
+    "name": "Air Jordan Mid",
+    "onSale": true,
+    "tags": ["Nike", "Amarelo"],
+    "image": "https://images.pexels.com/photos/2529157/pexels-photo-2529157.jpeg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 12000,
+    "salePrice": 10000,
+    "ratings": 4.0
+  }
+]

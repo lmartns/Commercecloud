@@ -1,0 +1,11 @@
+.el {
+  box-shadow: 0px 40x 10px rgba(0, 0, 0, 0.8) !important;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.ctext {
+  color: #00b0ff;
+}
