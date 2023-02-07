@@ -74,7 +74,7 @@ export default {
       light: true,
       themes: {
         light: {
-          primary: colors.lightBlue.accent4,
+          primary: colors.blue.darken3,
           bg: "#ffffff",
           surface: "#ffffff",
           accent: colors.grey.darken3,
@@ -85,7 +85,7 @@ export default {
           success: colors.green.accent3,
         },
         dark: {
-          primary: colors.lightBlue.accent4,
+          primary: colors.blue.darken1,
           bg: "#050b14",
           surface: "#000c24",
           accent: colors.grey.darken3,

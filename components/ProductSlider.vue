@@ -1,7 +1,13 @@
 <template>
   <v-slide-group>
     <v-slide-item v-for="(p, i) in products" :key="`newProduct-${i}`">
-      <v-card link color="surface" width="300" class="el ma-2 mb-5 mr-5">
+      <v-card
+        nuxt
+        :to="`/products/${p.id}`"
+        color="surface"
+        width="300"
+        class="el ma-2 mb-5 mr-5"
+      >
         <v-img height="300" :src="p.image">
           <template #placeholder>
             <v-row class="fill-height" justify="center" align="center">

@@ -1,7 +1,7 @@
 <template>
   <v-card rounded="lg" class="pa-md-10 pa-5 text-center" color="primary" dark>
     <p class="text-md-h6 mt-5">Fique por dentro de todos os</p>
-    <br />
+
     <h2 class="text-md-h3">
       Lançamentos <br />
       e Novidades!
@@ -14,7 +14,7 @@
         outlined
         v-model="email"
       ></v-text-field>
-      <v-btn @click="submit" outlined min-height="50" block>Increva-se</v-btn>
+      <v-btn @click="submit" outlined min-height="50" block>Inscreva-se</v-btn>
     </v-sheet>
   </v-card>
 </template>

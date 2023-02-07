@@ -5,7 +5,7 @@
     <br />
     <br />
     <v-container>
-      <h1 class="text-md-h4 text-h6">Confira</h1>
+      <h1 class="text-md-h4 text-h6">Confira 🔥</h1>
       <br />
       <ProductSlider :products="products" />
       <br /><br /><br />

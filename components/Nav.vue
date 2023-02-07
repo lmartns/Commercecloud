@@ -8,12 +8,12 @@
   >
     <v-toolbar-title
       @click="$router.push('/')"
-      class="text-md-h5 font-weight-bold pointer ctext"
+      class="text-md-h5 font-weight-bold pointer primary--text"
     >
       CloudWalk
     </v-toolbar-title>
     <v-spacer />
-    <v-btn icon>
+    <v-btn nuxt to="/products" icon>
       <v-icon size="20"> mdi-store-outline </v-icon>
     </v-btn>
     <v-btn icon>
