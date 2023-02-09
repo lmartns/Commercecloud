@@ -23,7 +23,7 @@ export default {
   css: ["~/assets/main.css", "@sweetalert2/theme-material-ui"],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [],
+  plugins: ["~/plugins/cart.js"],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
@@ -85,9 +85,9 @@ export default {
           success: colors.green.accent3,
         },
         dark: {
-          primary: colors.blue.darken1,
-          bg: "#050b14",
-          surface: "#000c24",
+          primary: colors.blue.lighten1,
+          bg: "#000A1C",
+          surface: "#000C24",
           accent: colors.grey.darken3,
           secondary: colors.amber.darken3,
           info: colors.teal.lighten1,

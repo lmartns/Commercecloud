@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div color="bg">
     <Nav />
     <v-container v-if="product">
       <v-row justify="center">
@@ -42,6 +42,7 @@
             {{ product.description }}
           </p>
           <v-btn
+            @click="$store.commit('cart/AddToCart', product)"
             min-height="45"
             min-width="170"
             class="text-capitalize"

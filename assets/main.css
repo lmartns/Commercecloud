@@ -5,3 +5,8 @@
 .pointer {
   cursor: pointer;
 }
+
+.swal2-popup.swal2-toast .swal2-html-container,
+.swal2-container.swal2-center > .swal2-popup {
+  font-family: "Poppins" !important;
+}
