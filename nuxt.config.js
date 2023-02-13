@@ -19,7 +19,6 @@ export default {
       { hid: "description", name: "description", content: "eCommerce Website" },
       { name: "format-detection", content: "telephone=no" },
     ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "/1399995805.svg" }],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
