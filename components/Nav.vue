@@ -21,11 +21,11 @@
       overlap
       :content="$store.state.cart.cart.length"
     >
-      <v-btn icon>
+      <v-btn nuxt to="/cart" icon>
         <v-icon size="20"> mdi-cart-outline </v-icon>
       </v-btn>
     </v-badge>
-    <v-btn v-else icon>
+    <v-btn nuxt to="/cart" v-else icon>
       <v-icon size="20"> mdi-cart-outline </v-icon>
     </v-btn>
     <v-divider vertical class="mx-md-5 mx-2" />

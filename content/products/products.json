@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Air Jordan Red",
-    "onSale": false,
+    "onSale": true,
     "tags": ["Nike", "Vermelho"],
     "image": "https://images.pexels.com/photos/2385477/pexels-photo-2385477.jpeg",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
@@ -35,7 +35,7 @@
   {
     "id": 4,
     "name": "Nike Sb",
-    "onSale": false,
+    "onSale": true,
     "tags": ["Nike", "Preto"],
     "image": "https://images.pexels.com/photos/1478442/pexels-photo-1478442.jpeg",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
