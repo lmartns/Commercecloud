@@ -1,7 +1,7 @@
 {
   "name": "Cloudwalk",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt",
