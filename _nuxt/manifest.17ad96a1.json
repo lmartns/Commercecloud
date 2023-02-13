@@ -1,0 +1,9 @@
+{
+  "name": "Cloudwalk",
+  "short_name": "Cloudwalk",
+  "icons": [],
+  "start_url": "/Commercecloud/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "pt-BR"
+}
